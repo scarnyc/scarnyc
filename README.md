@@ -11,7 +11,7 @@ I lead the open-source [deep-agent-agi](https://github.com/scarnyc/deep-agent-ag
 
 🚀 **AI Product Lead at Verizon** — Lead PM for Contact Center Gen AI for 40k agents serving 100M+ subscribers. Delivered 10% AHT reduction through agentic capabilities: real-time listening, customer bio summarization, IVR voice agents, personalized sales recommendations, retention nudges, sentiment guidance, and conversational intelligence.
 
-✍️ Creator of [AI PM BY DESIGN](https://aipmbydesign.substack.com/) — Making complex AI concepts accessible for product leaders & data science pratictioners alike.
+✍️ Creator of [AI PM BY DESIGN](https://aipmbydesign.substack.com/) — Making complex AI concepts accessible for product leaders & data science pratictioners.
 
 📈 Former Sr. PM at **Grubhub** (28M DAU homepage personalization), **Acxiom** (DaaS), and **Data Scientist at Healthfirst** ($24M+ revenue impact via Risk Adjustment NLP platform).
 
