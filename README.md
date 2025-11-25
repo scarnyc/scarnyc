@@ -1,4 +1,4 @@
-## 👋Hey, I'm Will.
+## 👋 Hey, I'm Will.
 
 I build 0 → 1 AI products that deliver real business impact — $168M+ in revenue growth and cost savings that 100M+ customers ❤️
 
