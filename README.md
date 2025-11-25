@@ -19,7 +19,7 @@ I lead the open-source [deep-agent-agi](https://github.com/scarnyc/deep-agent-ag
 
 ❝With everything happening in the world, I know how easy it is to put yourself last. But the truth is, your mindset shapes your success.❞
 
-Let's get to work!
+Let's get to work ~
 
 
 ### Let's connect!
