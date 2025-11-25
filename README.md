@@ -14,7 +14,7 @@ I lead the OSS [deep-agent-agi](https://github.com/scarnyc/deep-agent-agi) frame
 
 - 🚀 **AI Product Lead at Verizon** for Contact Center Gen AI, serving 40k+ agents and 100M+ subscribers.
 
-- 🏆 Delivered 10% AHT reduction via agentic capabilities for real-time listening, IVR voice agents, speech-to-text transcription, customer bio summarization, sentiment analysis, retention nudges, case management, conversational intelligence, and personalized sales recommendations.
+- 🏆 Delivered 10% AHT reduction via agentic capabilities for real-time listening, agentic IVR routing, real-time transcription, customer bio summarization, sentiment analysis, retention nudges, case management, agent assist chat, and personalized sales recommendations.
 
 - ✍️ Creator of [AI PM BY DESIGN](https://aipmbydesign.substack.com/) — Making complex AI concepts accessible for product leaders & data science practitioners.
 
