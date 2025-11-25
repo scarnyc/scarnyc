@@ -7,7 +7,7 @@ Most of my work bridges the gap between cutting-edge AI and practical customer v
 I lead the open-source [deep-agent-agi](https://github.com/scarnyc/deep-agent-agi) framework — a general-purpose deep agent that reduces AI tool costs through intelligent reasoning optimization.
 
 
-## About Me
+## About me
 
 🚀 **AI Product Lead at Verizon** — Leading Contact Center Gen AI for 40k agents serving 100M+ subscribers. Delivered 10% AHT reduction through agentic capabilities: real-time listening, customer bio summarization, IVR voice agents, personalized sales recommendations, retention nudges, sentiment guidance, and conversational intelligence.
 
@@ -22,7 +22,7 @@ I lead the open-source [deep-agent-agi](https://github.com/scarnyc/deep-agent-ag
 Let's get to work!
 
 
-### What I work on
+## What I work on
 
 🤖 **AI Agents**: Deep agents, supervisor architectures, multi-agent systems, LangGraph workflows  
 📊 **Evaluations**: Arize Phoenix, RAGAS, LLM-as-Judge, agent path convergence, hallucination detection  
