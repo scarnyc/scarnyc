@@ -1,21 +1,25 @@
 ## 👋 Hey, I'm Will
 
-I lead enterprise (0 → 1) AI transformational products that deliver real business impact — $168M+ in revenue growth and cost savings that 100M+ customers ❤️
+I'm an Agentic AI Product Leader driving $168M+ in value 🔥
 
-My work bridges the gap between cutting-edge AI and practical customer value: OKRs, stakeholder relationship management, GTM, Deep & multi-agentic systems, RAG, context engineering, multimodal capabilities, LLMaaJ evals at scale, self-improving prompts, cost-optimized reasoning strategies, HITL feedback, Responsible AI, and production-scale deployments. 
+My work bridges the gap between cutting-edge AI capabilities and practical customer value: I lead enterprise (0 → 1) AI transformational products that deliver real business impact — by shipping products that customers ❤️
 
-I lead the open-source [deep-agent-agi](https://github.com/scarnyc/deep-agent-agi) framework — a general-purpose deep agent that reduces AI tool costs through intelligent reasoning optimization.
+**Core Specialization**: OKRs, stakeholder relationship management, GTM, and end-user adoption for → Deep agents & multi-agent systems, agentic workflows, RAG, context engineering, multimodal capabilities, LLMaaJ evals at scale, self-improving prompts, cost-optimized reasoning strategies, HITL feedback, Responsible AI, and production-scale deployments.
+
+🦾 I lead the OSS [deep-agent-agi](https://github.com/scarnyc/deep-agent-agi) framework — a general-purpose deep agent that reduces AI tool costs through intelligent reasoning optimization.
 
 
 ## About me
 
-🚀 **AI Product Lead at Verizon** — Lead PM for Contact Center Gen AI for 40k agents serving 100M+ subscribers. Delivered 10% AHT reduction through agentic capabilities: real-time listening, customer bio summarization, IVR voice agents, personalized sales recommendations, retention nudges, sentiment guidance, and conversational intelligence.
+- 🚀 **AI Product Lead at Verizon** for Contact Center Gen AI, serving 40k+ agents and 100M+ subscribers
 
-✍️ Creator of [AI PM BY DESIGN](https://aipmbydesign.substack.com/) — Making complex AI concepts accessible for product leaders & data science pratictioners.
+- 🏆 Delivered 10% AHT reduction via agentic capabilities for real-time listening, IVR voice agents, speech-to-text transcription, customer bio summarization, sentiment analysis, retention nudges, case management, conversational intelligence, and personalized sales recommendations
 
-📈 Former Sr. PM at **Grubhub** (28M DAU homepage personalization), **Acxiom** (DaaS), and **Data Scientist at Healthfirst** ($24M+ revenue impact via Risk Adjustment NLP platform).
+- ✍️ Creator of [AI PM BY DESIGN](https://aipmbydesign.substack.com/) — Making complex AI concepts accessible for product leaders & data science pratictioners
 
-🎓 100+ technical certifications including DataCamp's [Designing Agentic Systems with LangChain](https://www.datacamp.com/statement-of-accomplishment/course/a4a6ec71cec838f8316e13c0d79b75e89becccf7)
+- 📈 Former Sr. PM at **Grubhub** (28M DAU homepage personalization), **Acxiom** (DaaS), and **Data Scientist at Healthfirst** ($24M+ revenue impact via Risk Adjustment NLP platform).
+
+- 🎓 100+ technical certifications including DataCamp's [Designing Agentic Systems with LangChain](https://www.datacamp.com/statement-of-accomplishment/course/a4a6ec71cec838f8316e13c0d79b75e89becccf7)
 
 ❝With everything happening in the world, I know how easy it is to put yourself last. But the truth is, your mindset shapes your success.❞
 
