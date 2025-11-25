@@ -1,6 +1,5 @@
 ## 👋Hey, I'm Will.
 
-<!--
 I build 0 → 1 AI products that deliver real business impact — $168M+ in revenue growth and cost savings that 100M+ customers ❤️
 
 Most of my work bridges the gap between cutting-edge AI and practical customer value: agentic systems, RAG pipelines, LLM evaluation frameworks, and production-scale deployments.
@@ -56,4 +55,3 @@ Let's get to work!
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://aipmbydesign.substack.com/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@ai-pm-by-design)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=notion&logoColor=white)](https://www.aipmbydesign.com/portfolio)
--->
