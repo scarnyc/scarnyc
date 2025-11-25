@@ -8,6 +8,7 @@ My work bridges the gap between cutting-edge AI capabilities and practical custo
 
 I lead the OSS [deep-agent-agi](https://github.com/scarnyc/deep-agent-agi) framework — a general-purpose deep agent that reduces AI tool costs through intelligent reasoning optimization.
 
+❝With everything happening in the world, I know how easy it is to put yourself last. But the truth is, your mindset shapes your success.❞
 
 ## About me
 
@@ -20,10 +21,6 @@ I lead the OSS [deep-agent-agi](https://github.com/scarnyc/deep-agent-agi) frame
 - 📈 Former Sr. PM at **Grubhub** (28M DAU homepage personalization), **Acxiom** (DaaS), and **Data Scientist at Healthfirst** ($24M+ revenue impact via Risk Adjustment NLP platform).
 
 - 🎓 100+ technical certifications including DataCamp's [Designing Agentic Systems with LangChain](https://www.datacamp.com/statement-of-accomplishment/course/a4a6ec71cec838f8316e13c0d79b75e89becccf7)
-
-❝With everything happening in the world, I know how easy it is to put yourself last. But the truth is, your mindset shapes your success.❞
-
-Let's get to work ~
 
 
 ### Let's connect!
