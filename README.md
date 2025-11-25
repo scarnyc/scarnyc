@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Will
 
-I lead enterprise (0 → 1 AI) transformational products that deliver real business impact — $168M+ in revenue growth and cost savings that 100M+ customers ❤️
+I lead enterprise (0 → 1) AI transformational products that deliver real business impact — $168M+ in revenue growth and cost savings that 100M+ customers ❤️
 
 My work bridges the gap between cutting-edge AI and practical customer value: OKRs, stakeholder relationship management, GTM, Deep & multi-agentic systems, RAG, context engineering, multimodal capabilities, LLMaaJ evals at scale, self-improving prompts, cost-optimized reasoning strategies, HITL feedback, Responsible AI, and production-scale deployments. 
 
