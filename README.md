@@ -1,34 +1,25 @@
 ## 👋 Hey, I'm Will
 
-I build 0 → 1 AI products that deliver real business impact — $168M+ in revenue growth and cost savings that 100M+ customers ❤️
+I lead enterprise (0 → 1 AI) transformational products that deliver real business impact — $168M+ in revenue growth and cost savings that 100M+ customers ❤️
 
-Most of my work bridges the gap between cutting-edge AI and practical customer value: Deep & multi-agentic systems, RAG pipelines, multimodal capabilities, LLM evals at scale, self-improving prompts, cost-optimized reasoning strategies, HITL feedback, Responsbile AI, and production-scale deployments. 
+My work bridges the gap between cutting-edge AI and practical customer value: OKRs, stakeholder relationship management, GTM, Deep & multi-agentic systems, RAG, context engineering, multimodal capabilities, LLMaaJ evals at scale, self-improving prompts, cost-optimized reasoning strategies, HITL feedback, Responsible AI, and production-scale deployments. 
 
 I lead the open-source [deep-agent-agi](https://github.com/scarnyc/deep-agent-agi) framework — a general-purpose deep agent that reduces AI tool costs through intelligent reasoning optimization.
 
 
 ## About me
 
-🚀 **AI Product Lead at Verizon** — Leading Contact Center Gen AI for 40k agents serving 100M+ subscribers. Delivered 10% AHT reduction through agentic capabilities: real-time listening, customer bio summarization, IVR voice agents, personalized sales recommendations, retention nudges, sentiment guidance, and conversational intelligence.
+🚀 **AI Product Lead at Verizon** — Lead PM for Contact Center Gen AI for 40k agents serving 100M+ subscribers. Delivered 10% AHT reduction through agentic capabilities: real-time listening, customer bio summarization, IVR voice agents, personalized sales recommendations, retention nudges, sentiment guidance, and conversational intelligence.
 
-✍️ Creator of [AI PM BY DESIGN](https://aipmbydesign.substack.com/) — Making complex AI concepts accessible for product leaders & data scientist pratictioners alike.
+✍️ Creator of [AI PM BY DESIGN](https://aipmbydesign.substack.com/) — Making complex AI concepts accessible for product leaders & data science pratictioners alike.
 
-📈 Former Sr. PM at **Grubhub** (28M DAU homepage personalization), **Acxiom** (Healthcare DaaS), and **Data Scientist at Healthfirst** ($24M revenue impact via NLP platform).
+📈 Former Sr. PM at **Grubhub** (28M DAU homepage personalization), **Acxiom** (DaaS), and **Data Scientist at Healthfirst** ($24M+ revenue impact via Risk Adjustment NLP platform).
 
 🎓 100+ technical certifications including DataCamp's [Designing Agentic Systems with LangChain](https://www.datacamp.com/statement-of-accomplishment/course/a4a6ec71cec838f8316e13c0d79b75e89becccf7)
 
 ❝With everything happening in the world, I know how easy it is to put yourself last. But the truth is, your mindset shapes your success.❞
 
 Let's get to work!
-
-
-## What I work on
-
-🤖 **AI Agents**: Deep agents, supervisor architectures, multi-agent systems, LangGraph workflows  
-📊 **Evaluations**: Arize Phoenix, RAGAS, LLM-as-Judge, agent path convergence, hallucination detection  
-🔍 **RAG Systems**: Hybrid search, context engineering, knowledge graphs, memory architectures  
-⚡ **Production AI**: Fine-tuning, context engineering, observability, responsible AI frameworks  
-🎯 **AI Product Strategy**: 0 → 1 launches, OKRs, stakeholder relationship management, GTM
 
 
 ### Let's connect!
