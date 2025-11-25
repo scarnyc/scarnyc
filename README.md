@@ -20,7 +20,7 @@ I lead the OSS [deep-agent-agi](https://github.com/scarnyc/deep-agent-agi) frame
 
 - 📈 Former Sr. PM at **Grubhub** (28M DAU homepage personalization), **Acxiom** (DaaS), and **Data Scientist at Healthfirst** ($24M+ revenue impact via Risk Adjustment NLP platform).
 
-- 🎓 100+ technical certifications including AWS' [Solutions Architect Associate](https://www.credly.com/badges/9eb6d5fa-e3bc-4e04-8985-7cf135a21098/public_url)
+- 🎓 100+ technical certifications, including passing AWS' [Solutions Architect Associate](https://www.credly.com/badges/9eb6d5fa-e3bc-4e04-8985-7cf135a21098/public_url) exam.
 
 
 ### Let's connect!
