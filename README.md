@@ -2,7 +2,7 @@
 
 I build 0 → 1 AI products that deliver real business impact — $168M+ in revenue growth and cost savings that 100M+ customers ❤️
 
-Most of my work bridges the gap between cutting-edge AI and practical customer value: agentic systems, RAG pipelines, LLM evaluation frameworks, and production-scale deployments.
+Most of my work bridges the gap between cutting-edge AI and practical customer value: Deep & multi-agentic systems, RAG pipelines, multimodal capabilities, LLM evals at scale, self-improving prompts, cost-optimized reasoning strategies, HITL feedback, Responsbile AI, and production-scale deployments. 
 
 I lead the open-source [deep-agent-agi](https://github.com/scarnyc/deep-agent-agi) framework — a general-purpose deep agent that reduces AI tool costs through intelligent reasoning optimization.
 
@@ -30,13 +30,6 @@ Let's get to work!
 ⚡ **Production AI**: Fine-tuning, context engineering, observability, responsible AI frameworks  
 🎯 **AI Product Strategy**: 0 → 1 launches, OKRs, stakeholder relationship management, GTM
 
-
-### Currently exploring
-
-- Deep Agents with Langchain's deepagents framework
-- Agent evaluation frameworks at scale  
-- Self-improving prompt optimization
-- Cost-optimized reasoning strategies
 
 ### Let's connect!
 
