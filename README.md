@@ -31,19 +31,6 @@ Let's get to work!
 🎯 **AI Product Strategy**: 0 → 1 launches, OKRs, stakeholder relationship management, GTM
 
 
-## Qualifications Profile
-
-✅Top 6% of LinkedIn Voices Worldwide
-✅12-year track record of launching 0→1s
-✅Leading AI transformation in VZ Contact Center
-✅People Leader empowering 100+ missionaries
-✅Recovering Data Scientist with 100+ tech certs
-✅Recognized SOTA AI Product SME cross-industry
-✅Baruch College Master's — born & raised in NYC
-✅Consistently ranked Top Performing
-✅Black-belt Taekwondo Champion
-
-
 ### Currently exploring
 
 - Deep Agents with Langchain's deepagents framework
