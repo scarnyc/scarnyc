@@ -7,16 +7,7 @@ Most of my work bridges the gap between cutting-edge AI and practical customer v
 I lead the open-source [deep-agent-agi](https://github.com/scarnyc/deep-agent-agi) framework — a general-purpose deep agent that reduces AI tool costs through intelligent reasoning optimization.
 
 
-### What I work on
-
-🤖 **AI Agents**: Deep agents, supervisor architectures, multi-agent systems, LangGraph workflows  
-📊 **Evaluations**: Arize Phoenix, RAGAS, LLM-as-Judge, agent path convergence, hallucination detection  
-🔍 **RAG Systems**: Hybrid search, context engineering, knowledge graphs, memory architectures  
-⚡ **Production AI**: Fine-tuning, context engineering, observability, responsible AI frameworks  
-🎯 **AI Product Strategy**: 0 → 1 launches, OKRs, stakeholder relationship management, GTM
-
-
-### About Me
+## About Me
 
 🚀 **AI Product Lead at Verizon** — Leading Contact Center Gen AI for 40k agents serving 100M+ subscribers. Delivered 10% AHT reduction through agentic capabilities: real-time listening, customer bio summarization, IVR voice agents, personalized sales recommendations, retention nudges, sentiment guidance, and conversational intelligence.
 
@@ -29,6 +20,15 @@ I lead the open-source [deep-agent-agi](https://github.com/scarnyc/deep-agent-ag
 ❝With everything happening in the world, I know how easy it is to put yourself last. But the truth is, your mindset shapes your success.❞
 
 Let's get to work!
+
+
+### What I work on
+
+🤖 **AI Agents**: Deep agents, supervisor architectures, multi-agent systems, LangGraph workflows  
+📊 **Evaluations**: Arize Phoenix, RAGAS, LLM-as-Judge, agent path convergence, hallucination detection  
+🔍 **RAG Systems**: Hybrid search, context engineering, knowledge graphs, memory architectures  
+⚡ **Production AI**: Fine-tuning, context engineering, observability, responsible AI frameworks  
+🎯 **AI Product Strategy**: 0 → 1 launches, OKRs, stakeholder relationship management, GTM
 
 
 ## Qualifications Profile
@@ -51,7 +51,7 @@ Let's get to work!
 - Self-improving prompt optimization
 - Cost-optimized reasoning strategies
 
-### Let's connect
+### Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/will-scardino/)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://aipmbydesign.substack.com/)
