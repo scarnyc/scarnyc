@@ -4,7 +4,7 @@ I'm an Agentic AI Product Leader driving $168M+ in value 🔥
 
 My work bridges the gap between cutting-edge AI capabilities and practical customer value: I lead enterprise (0 → 1) AI transformational products that deliver real business impact — that customers ❤️
 
-**Core Specialization**: OKRs, stakeholder relationship management, GTM, and end-user adoption for → Deep agents & multi-agent systems, agentic workflows, RAG, context engineering, multimodal capabilities, LLMaaJ evals at scale, self-improving prompts, cost-optimized reasoning strategies, HITL feedback, Responsible AI, and production-scale deployments.
+**Core Specialization**: product strategy, data science, OKRs, stakeholder relationship management, GTM, and end-user adoption for → Deep agents & multi-agent systems, agentic workflows, RAG, context engineering, multimodal capabilities, LLMaaJ evals at scale, self-improving prompts, cost-optimized reasoning strategies, HITL feedback, Responsible AI, and production-scale deployments.
 
 I lead the OSS [deep-agent-agi](https://github.com/scarnyc/deep-agent-agi) framework — a general-purpose deep agent that reduces AI tool costs through intelligent reasoning optimization.
 
@@ -12,7 +12,7 @@ I lead the OSS [deep-agent-agi](https://github.com/scarnyc/deep-agent-agi) frame
 
 ## About me
 
-- 🚀 **AI Product Lead at Verizon** for Contact Center Gen AI, serving 40k+ agents and 100M+ subscribers.
+- 🚀 **AI Product Lead at Verizon** for Contact Center Gen AI, serving 100M+ subscribers.
 
 - 🏆 Delivered 10% AHT reduction via agentic capabilities for real-time listening, IVR routing, real-time transcription, customer bio summarization, sentiment analysis, retention nudges, case management, agent assist chat, and personalized sales recommendations.
 
