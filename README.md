@@ -6,7 +6,7 @@ My work bridges the gap between cutting-edge AI capabilities and practical custo
 
 **Core Specialization**: product strategy, data science, OKRs, stakeholder relationship management, GTM, and end-user adoption for → Deep agents & multi-agent systems, agentic workflows, RAG, context engineering, multimodal capabilities, LLMaaJ evals at scale, self-improving prompts, cost-optimized reasoning strategies, HITL feedback, Responsible AI, and production-scale deployments.
 
-I lead the OSS [deep-agent-agi](https://github.com/scarnyc/deep-agent-agi) framework — a general-purpose deep agent that reduces AI tool costs through intelligent reasoning optimization.
+I lead the OSS [deep-agent-one](https://github.com/scarnyc/deep-agent-one) framework — a general-purpose deep agent that reduces AI tool costs through intelligent reasoning optimization.
 
 ❝With everything happening in the world, I know how easy it is to put yourself last. But the truth is, your mindset shapes your success.❞
 
