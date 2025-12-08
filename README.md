@@ -2,11 +2,11 @@
 
 I'm an Agentic AI Product Leader driving $168M+ in value 🔥
 
-My work bridges the gap between cutting-edge AI capabilities and practical customer value: I lead enterprise (0 → 1) AI transformational products that deliver real business impact — that customers ❤️
+My work bridges the gap between cutting-edge AI capabilities and practical customer value: I lead enterprise (0 → 1) AI transformational products that deliver real business impact that customers ❤️
 
 **Core Specialization**: product strategy, data science, OKRs, stakeholder relationship management, GTM, and end-user adoption for → Deep agents & multi-agent systems, agentic workflows, RAG, context engineering, multimodal capabilities, LLMaaJ evals at scale, self-improving prompts, cost-optimized reasoning strategies, HITL feedback, Responsible AI, and production-scale deployments.
 
-I lead the OSS [deep-agent-one](https://github.com/scarnyc/deep-agent-one) framework — a general-purpose deep agent that reduces AI tool costs through intelligent reasoning optimization.
+I lead the OSS [deep-agent-one](https://github.com/scarnyc/deep-agent-one) framework: a general-purpose deep agent that reduces AI tool costs through intelligent reasoning optimization.
 
 ❝With everything happening in the world, I know how easy it is to put yourself last. But the truth is, your mindset shapes your success.❞
 
@@ -16,7 +16,7 @@ I lead the OSS [deep-agent-one](https://github.com/scarnyc/deep-agent-one) frame
 
 - 🏆 Delivered 10% AHT reduction via agentic capabilities for real-time listening, IVR routing, real-time transcription, customer bio summarization, sentiment analysis, retention nudges, case management, agent assist chat, and personalized sales recommendations.
 
-- ✍️ Creator of [AI PM BY DESIGN](https://aipmbydesign.substack.com/) — Making complex AI concepts accessible for product leaders & data science practitioners.
+- ✍️ Creator of [AI PM BY DESIGN](https://aipmbydesign.substack.com/): Making complex AI concepts accessible for product leaders & data science practitioners.
 
 - 📈 Former Sr. PM at **Grubhub** (+28M DAU homepage personalization), **Acxiom** (DaaS), and **Data Scientist at Healthfirst** (+$24M revenue lift via Risk Adjustment NLP platform).
 
