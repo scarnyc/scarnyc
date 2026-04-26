@@ -7,8 +7,8 @@ My work bridges the gap between cutting-edge AI capabilities and practical custo
 **Core Specialization**: product strategy, data science, OKRs, stakeholder relationship management, GTM, and end-user adoption for → Deep agents & multi-agent systems, agentic workflows, RAG, context engineering, multimodal capabilities, LLMaaJ evals at scale, self-improving prompts, cost-optimized reasoning strategies, HITL feedback, Responsible AI, and production-scale deployments.
 
 I've developed multiple OSS frameworks, including: 
-1. [moltworkers-poc](https://github.com/scarnyc/moltworker-poc) **—** a security-hardened Openclaw runtime on Cloudflare Workers — defense-in-depth implementation. 
-2. [deep-agent-one](https://github.com/scarnyc/deep-agent-one) **—** a general-purpose deep agent that reduces AI tool costs through intelligent reasoning optimization.
+1. [moltworkers-poc](https://github.com/scarnyc/moltworker-poc) — Security-hardened Openclaw defense-in-depth (DID) runtime implementation on Cloudflare Workers. 
+2. [deep-agent-one](https://github.com/scarnyc/deep-agent-one) — General-purpose deep agent that reduces AI tool costs through intelligent reasoning optimization.
 
 ❝With everything happening in the world, I know how easy it is to put yourself last. But the truth is, your mindset shapes your success.❞
 
