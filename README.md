@@ -1,28 +1,22 @@
 ## 👋 Hey, I'm Will
 
-I'm an Agentic AI Product Leader driving $168M+ in value 🔥
+👋 Hey, I'm Will. I'm an Agentic AI Product Leader driving $168M+ in value 🔥
 
-My work bridges the gap between cutting-edge AI capabilities and practical customer value: I lead enterprise (0 → 1) AI transformational products that deliver real business impact that customers ❤️
+My work bridges cutting-edge AI capabilities and practical customer value: I lead enterprise AI products to transform the business that customers ❤️
 
 **Core Specialization**: product strategy, data science, OKRs, stakeholder relationship management, GTM, and end-user adoption for → Deep agents & multi-agent systems, agentic workflows, RAG, context engineering, multimodal capabilities, LLMaaJ evals at scale, self-improving prompts, cost-optimized reasoning strategies, HITL feedback, Responsible AI, and production-scale deployments.
 
-I've developed multiple OSS frameworks, including: 
-1. [moltworkers-poc](https://github.com/scarnyc/moltworker-poc) — Security-hardened Openclaw defense-in-depth (DID) runtime implementation on Cloudflare Workers. 
-2. [deep-agent-one](https://github.com/scarnyc/deep-agent-one) — General-purpose deep agent that reduces AI tool costs through intelligent reasoning optimization.
+🚀 AI Product Lead at Verizon for Contact Center Gen AI, serving a global frontline workforce and 100M+ subscribers.
 
-❝With everything happening in the world, I know how easy it is to put yourself last. But the truth is, your mindset shapes your success.❞
+🏆 Delivered 10% AHT reduction via agentic capabilities for real-time listening, IVR routing, real-time transcription, customer bio summarization, sentiment analysis, retention nudges, case management, conversational intelligence, and personalized sales recommendations.
 
-## About me
+🦾 Developing OSS frameworks - Moltworkers, my latest side project: a security-hardened OpenClaw defense-in-depth runtime implementation on Cloudflare Workers.
 
-- 🚀 **AI Product Lead at Verizon** for Contact Center Gen AI, serving 100M+ subscribers.
+✍️ Creator of AI PM BY DESIGN: Making AI concepts accessible for product leaders and data scientists.
 
-- 🏆 Delivered 10% AHT reduction via agentic capabilities for real-time listening, IVR routing, real-time transcription, customer bio summarization, sentiment analysis, retention nudges, case management, agent assist chat, and personalized sales recommendations.
+📈 Former Sr. PM at **Grubhub** (+28M DAU homepage personalization), **Acxiom** (DaaS), and **Data Scientist at Healthfirst** (+$24M revenue lift via Risk Adjustment NLP platform).
 
-- ✍️ Creator of [AI PM BY DESIGN](https://aipmbydesign.substack.com/): Making complex AI concepts accessible for product leaders & data science practitioners.
-
-- 📈 Former Sr. PM at **Grubhub** (+28M DAU homepage personalization), **Acxiom** (DaaS), and **Data Scientist at Healthfirst** (+$24M revenue lift via Risk Adjustment NLP platform).
-
-- 🎓 100+ technical certifications, including passing AWS' [Solutions Architect Associate](https://www.credly.com/badges/9eb6d5fa-e3bc-4e04-8985-7cf135a21098/public_url) exam.
+🎓 100+ technical certifications, including passing AWS' [Solutions Architect Associate](https://www.credly.com/badges/9eb6d5fa-e3bc-4e04-8985-7cf135a21098/public_url) exam.
 
 
 ### Let's connect!
