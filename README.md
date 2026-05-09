@@ -10,7 +10,7 @@ My work bridges cutting-edge AI capabilities and practical customer value: I lea
 
 🏆 Delivered 10% AHT reduction via agentic capabilities for real-time listening, IVR routing, real-time transcription, customer bio summarization, sentiment analysis, retention nudges, case management, conversational intelligence, and personalized sales recommendations.
 
-🦾 Developing OSS frameworks → Moltworkers is my latest project: a security-hardened OpenClaw defense-in-depth runtime implementation on Cloudflare Workers.
+🦾 Developing OSS frameworks → [Moltworkers](https://github.com/scarnyc/moltworker-poc) is my latest project: a security-hardened OpenClaw defense-in-depth runtime implementation on Cloudflare Workers.
 
 ✍️ Creator of AI PM BY DESIGN: Making AI concepts accessible for product leaders and data scientists.
 
