@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Will
 
-👋 Hey, I'm Will. I'm an Agentic AI Product Leader driving $168M+ in value 🔥
+I'm an Agentic AI Product Leader driving $168M+ in value 🔥
 
 My work bridges cutting-edge AI capabilities and practical customer value: I lead enterprise AI products to transform the business that customers ❤️
 
