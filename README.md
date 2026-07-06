@@ -6,7 +6,7 @@
 
 **Core Specialization**: product strategy, data science, OKRs, stakeholder relationship management, GTM, and end-user adoption for → Deep agents & multi-agent systems, agentic workflows, RAG, context engineering, multimodal capabilities, LLMaaJ evals at scale, self-improving prompts, cost-optimized reasoning strategies, HITL feedback, Responsible AI, and production-scale deployments.
 
-🚀 Ex-Verizon AI Product Lead at Verizon for Contact Center Gen AI; served a global frontline workforce and 100M+ subscribers.
+🚀 Ex-Verizon AI Product Lead for Contact Center Gen AI; served a global frontline workforce and 100M+ subscribers.
 
 🏆 Delivered 10% AHT reduction via agentic capabilities for real-time listening, IVR routing, real-time transcription, customer bio summarization, sentiment analysis, retention nudges, case management, conversational intelligence, and personalized sales recommendations.
 
