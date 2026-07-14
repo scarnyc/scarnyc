@@ -1,10 +1,10 @@
 ## 👋 Hey, I'm Will.
 
-🔥 I'm an Agentic AI engineer driving $168M+ in value. My work bridges cutting-edge AI capabilities and practical customer value: I build transformative enterprise AI products that customers ❤️
+I'm an Agentic AI engineer driving $168M+ in value. My work bridges cutting-edge AI capabilities and practical customer value: I build transformative enterprise AI products that customers ❤️
 
 🕊️ I recently started a new role as an FDE Principal - Applied AI at Accelerant.
 
-**Core Specialization**: product strategy, data science, OKRs, stakeholder relationship management, GTM, and end-user adoption for → Deep agents & multi-agent systems, agentic workflows, RAG, context engineering, multimodal capabilities, LLMaaJ evals at scale, self-improving prompts, cost-optimized reasoning strategies, HITL feedback, Responsible AI, and production-scale deployments.
+🔥 **Core Specialization**: product strategy, data science, OKRs, stakeholder relationship management, GTM, and end-user adoption for → Deep agents & multi-agent systems, agentic workflows, RAG, context engineering, multimodal capabilities, LLMaaJ evals at scale, self-improving prompts, cost-optimized reasoning strategies, HITL feedback, Responsible AI, and production-scale deployments.
 
 🚀 Ex-Verizon AI Product Lead for Contact Center Gen AI; served a global frontline workforce and 100M+ subscribers.
 
